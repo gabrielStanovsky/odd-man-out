@@ -49,7 +49,6 @@ For example, the table below shows a number of puzzles where the odd-man-out app
 ```
 ## Unpacking the dataset
 
-In the [data](data) folder, run:
 
 	tar xvzf data.tar.gz
 
