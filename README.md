@@ -51,7 +51,7 @@ For example, the table below shows a number of puzzles where the odd-man-out app
 
 In the [data](data) folder, run:
 
-	tar xvzf odd-man-out.tar.gz
+	tar xvzf data.tar.gz
 
 ## Data Format
 
