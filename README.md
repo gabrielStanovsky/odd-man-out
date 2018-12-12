@@ -5,7 +5,8 @@
 - [Spot the Odd-Man-Out](#spot-the-odd-man-out)
   - [Citing](#citing)
   - [Unpacking the dataset](#unpacking-the-dataset)
-  - [Data Format](#data-format)
+  - [Data](#data)
+    - [Format](#format)
     - [Expert annotation](#expert-annotation)
     - [Crowdsourced data](#crowdsourced-data)
   - [Contact](#contact)
@@ -52,7 +53,9 @@ For example, the table below shows a number of puzzles where the odd-man-out app
 
 	tar xvzf data.tar.gz
 
-## Data Format
+## Data
+
+### Format
 
 This collection consists of six sets of "odd-man-out" puzzles. Each puzzle is a single line in the following tab-separated value format:
 
