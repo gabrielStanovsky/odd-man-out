@@ -63,7 +63,7 @@ This collection consists of six sets of "odd-man-out" puzzles. Each puzzle is a 
 
 ### Expert annotation
 
-The files `common1.tsv`, `common2.tsv`, `proper1.tsv`, and `proper2` were all annotated by experts as part of an [AI2 Hackathon](http://ai2-website.s3.amazonaws.com/data/anomia-2014-11-13.zip).
+The files `common1.tsv`, `common2.tsv`, `proper1.tsv`, and `proper2.tsv` were all annotated by experts as part of an [AI2 Hackathon](http://ai2-website.s3.amazonaws.com/data/anomia-2014-11-13.zip).
 
 These consist of two collections of "common noun" puzzles, where the answer options are largely common nouns, and
 two collections of "proper noun" puzzles, where the answers options are largely proper nouns. Each collection
