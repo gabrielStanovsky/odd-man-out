@@ -25,7 +25,7 @@ fruit).
 
 Most of our puzzles ensure that one of the words is a polysemous *distractor*, making the task especially hard for machines, while human annotators tend to pick the correct odd-man-out with good accuracy.
 
-For example, the table below shows a number of puzzles where the odd-man-out appears in **bold**, and the distractor in *italics*. 
+For example, the table below shows a number of puzzles where the odd-man-out appears in *italics*, and the distractor in **bold**. 
 
 | Category         | Puzzle                                    |
 |------------------|-------------------------------------------|
